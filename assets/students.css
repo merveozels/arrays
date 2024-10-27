@@ -1,0 +1,21 @@
+body{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+ul, li{
+  list-style-type: none;
+  padding-block: 8px;
+}
+
+li{
+  display: flex;
+}
+.maless{
+  background-color: blue;
+}
+
+.femaless{
+  background-color: pink;
+}
